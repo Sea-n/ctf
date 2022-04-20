@@ -15,7 +15,7 @@
 		<div class="ts-content is-secondary is-fitted">
 			<div class="ts-container">
 				<div class="ts-tab">
-					<a href="#" class="item is-active">題目列表</a>
+					<div class="item is-active">題目列表</div>
 					<a href="https://hackmd.io/@Sean64/sec" target="_blank" class="item">簡報</a>
 				</div>
 			</div>
@@ -86,11 +86,11 @@
 				<div class="column">
 					<div class="ts-box">
 						<div class="ts-image">
-							<a target="_blank" href="#">
-								<img src="img/4-3.png" />
+							<a target="_blank" href="/stego">
+								<img src="img/stego.png" />
 							</a>
 						</div>
-						<div class="ts-content">這題我還沒想到可以出什麼 (´･ω･`)</div>
+						<div class="ts-content">這題我想不到可以出什麼情境 (´･ω･`)</div>
 					</div>
 				</div>
 			</div>
@@ -100,12 +100,17 @@
 		<div class="ts-content is-vertically-very-padded" style="background: var(--ts-gray-50)">
 			<div class="ts-container">
 				<div class="ts-header is-large is-heavy">感謝&nbsp;<a target="_blank" href="https://v4.tocas-ui.com/zh-tw/">Tocas UI</a>&nbsp;提供範例頁面作為模版</div>
-				<div class="ts-text is-secondary">由 <a target="_blank" href="https://twitter.com/YamiOdymel">Yami Odymel</a> 製作</div>
+				<div class="ts-text is-secondary">講者：<a target="_blank" href="https://www.sean.taipei/">Sean 韋詠祥</a></div>
 				<!--
 					Good Job! Here is your flag:
 					FLAG{wElC0me_T0_mY_W3b$iT3}
 				-->
 			</div>
 		</div>
+	<style>
+		a {
+			text-decoration: dotted underline;
+		}
+	</style>
 	</body>
 </html>
