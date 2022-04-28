@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html data-background="secondary">
+<html data-background="secondary" data-scheme="dark">
 	<head>
 		<meta charset="UTF-8" />
-		<title>CTF 題目一覽 - 建功軟研</title>
+		<title>CTF 題目一覽 - Sean 入門教學</title>
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocas-ui/4.0.2/tocas.min.css">
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/tocas-ui/4.0.2/tocas.min.js"></script>
-		<meta name="description" content="建功軟研社課 資安入門教學" />
+		<meta name="description" content="資安入門教學" />
 		<meta property="og:title" content="CTF 題目列表" />
-		<meta property="og:description" content="建功軟研社課 資安入門教學" />
+		<meta property="og:description" content="資安入門教學" />
 		<meta property="og:image" content="/img/ctf.png" />
 	</head>
 	<!-- Source: Tocas UI v4 範例頁面 -->
@@ -25,7 +25,7 @@
 			<div class="ts-space"></div>
 			<div class="ts-container">
 				<div class="ts-header is-center-aligned is-huge is-heavy">CTF 題目列表</div>
-				<div class="ts-text is-secondary">建功軟研社課 資安入門教學</div>
+				<div class="ts-text is-secondary">資安入門教學</div>
 			</div>
 			<div class="ts-space"></div>
 		</div>

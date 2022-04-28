@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html data-scheme="dark">
     <head>
         <meta charset="UTF-8" />
 		<title>聊天室 - Tocas UI 範例</title>

@@ -3,7 +3,7 @@ session_start();
 
 if (!isset($_COOKIE['passwd'])) {
 	setcookie('login', 'robert');
-	setcookie('passwd', 'ji32k7au4a83');
+	setcookie('passwd', 'FLAG{A_wEb$i7E_WiTH_X$s_VuL_i$_DaNG3R0Us}');
 }
 
 $cards = [];

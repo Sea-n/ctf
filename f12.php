@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html data-scheme="dark">
 	<head>
 		<title>登入頁面 - Tocas UI 範例</title>
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocas-ui/4.0.2/tocas.min.css">

@@ -1,5 +1,11 @@
+<?php
+if (isset($_GET['src'])) {
+	highlight_file('api.php');
+	exit();
+}
+?>
 <!DOCTYPE html>
-<html data-background="secondary">
+<html data-background="secondary" data-scheme="dark">
     <head>
 		<title>連線狀態檢測 - CTF</title>
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocas-ui/4.0.2/tocas.min.css">
@@ -13,7 +19,7 @@
 			<p>請輸入要執行 Ping 檢測的 IP 位址</p>
             <div class="ts-input is-large is-fluid is-solid is-start-icon">
                 <span class="ts-icon is-magnifying-glass-icon"></span>
-				<input type="text" id="addr" placeholder="140.113.1.1" />
+				<input type="text" id="addr" placeholder="140.113.168.192" />
 				<button id="btn" class="ts-button is-circular is-outlined" onclick="ping()">Ping!</button>
             </div>
             <div class="ts-space"></div>
