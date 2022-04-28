@@ -15,7 +15,7 @@ if (!isset($input['target'])) {
 
 $target = $input['target'];
 
-$content = shell_exec("ping -c 2 $target");
+$content = shell_exec("ping -c 1 $target");
 
 echo $content;
 
