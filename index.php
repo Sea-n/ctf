@@ -8,7 +8,7 @@
 		<meta name="description" content="資安入門教學" />
 		<meta property="og:title" content="CTF 題目列表" />
 		<meta property="og:description" content="資安入門教學" />
-		<meta property="og:image" content="/img/ctf.png" />
+		<meta property="og:image" content="/assets/img/ctf.png" />
 	</head>
 	<!-- Source: Tocas UI v4 範例頁面 -->
 	<body>
@@ -107,10 +107,11 @@
 				-->
 			</div>
 		</div>
-	<style>
-		a {
-			text-decoration: dotted underline;
-		}
-	</style>
+		<style>
+			a {
+				text-decoration: dotted underline;
+			}
+		</style>
+		<script src="/assets/js/clarity.js"></script>
 	</body>
 </html>

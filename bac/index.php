@@ -95,6 +95,7 @@ function login() {
 	return false;
 }
 </script>
+<script src="/assets/js/clarity.js"></script>
 </body>
 </html>
 <!-- Modified from https://examples.tocas-ui.com/pages/login.html -->

@@ -389,6 +389,8 @@
 
         <br>
     </div>
-    <!-- / 可擠壓式的推動容器 -->
+	<script src="/assets/js/clarity.js"></script>
+	<!-- / 可擠壓式的推動容器 -->
+</body>
 </html>
 <!-- Modified from https://examples.tocas-ui.com/pages/dashboard.html -->

@@ -44,7 +44,7 @@
                                 <div class="ts-divider is-section"></div>
                                 <div class="ts-wrap is-middle-aligned">
                                     <div class="ts-avatar is-circular">
-                                        <img src="/img/user.png" />
+                                        <img src="/assets/img/user.png" />
                                     </div>
                                     <div class="ts-text is-heavy">Yami Odymel</div>
                                 </div>
@@ -65,7 +65,7 @@
                                 <div class="ts-row">
                                     <div class="column">
                                         <div class="ts-avatar is-large is-circular">
-                                            <img src="/img/user.png" />
+                                            <img src="/assets/img/user.png" />
                                         </div>
                                     </div>
                                     <div class="column is-fluid">
@@ -101,7 +101,7 @@
                                 <div class="ts-row">
                                     <div class="column">
                                         <div class="ts-avatar is-large is-circular">
-                                            <img src="/img/user.png" />
+                                            <img src="/assets/img/user.png" />
                                         </div>
                                     </div>
                                     <div class="column is-fluid">
@@ -121,7 +121,7 @@
                                         就是你給我的精神攻擊害的
                                         <div class="ts-space is-small"></div>
                                         <div class="ts-image is-rounded">
-                                            <img src="/img/stego-cat.png" />
+                                            <img src="/assets/img/stego-cat.png" />
                                         </div>
                                     </div>
                                 </div>
@@ -152,7 +152,7 @@
                                 <div class="ts-row">
                                     <div class="column">
                                         <div class="ts-avatar is-large is-circular">
-                                            <img src="/img/user.png" />
+                                            <img src="/assets/img/user.png" />
                                         </div>
                                     </div>
                                     <div class="column is-fluid">
@@ -202,13 +202,13 @@
                                 <div class="ts-space"></div>
                                 <div class="ts-wrap">
                                     <div class="ts-avatar is-large is-circular">
-                                        <img src="/img/user.png" />
+                                        <img src="/assets/img/user.png" />
                                     </div>
                                     <div class="ts-avatar is-large is-circular">
-                                        <img src="/img/user.png" />
+                                        <img src="/assets/img/user.png" />
                                     </div>
                                     <div class="ts-avatar is-large is-circular">
-                                        <img src="/img/user.png" />
+                                        <img src="/assets/img/user.png" />
                                     </div>
                                 </div>
                             </div>
@@ -219,7 +219,7 @@
                                 <div class="ts-grid is-2-columns">
                                     <div class="column">
                                         <div class="ts-image is-rounded" style="max-width: 450px">
-                                            <img src="/img/4-3.png" />
+                                            <img src="/assets/img/4-3.png" />
                                             <div class="ts-mask is-secondary is-bottom">
                                                 <div class="ts-content is-compact is-start-aligned">
                                                     <div class="ts-badge is-secondary">NT$ 2,500</div>
@@ -229,7 +229,7 @@
                                     </div>
                                     <div class="column">
                                         <div class="ts-image is-rounded" style="max-width: 450px">
-                                            <img src="/img/4-3.png" />
+                                            <img src="/assets/img/4-3.png" />
                                             <div class="ts-mask is-secondary is-bottom">
                                                 <div class="ts-content is-compact is-start-aligned">
                                                     <div class="ts-badge is-secondary">NT$ 5,500</div>
@@ -239,7 +239,7 @@
                                     </div>
                                     <div class="column">
                                         <div class="ts-image is-rounded" style="max-width: 450px">
-                                            <img src="/img/4-3.png" />
+                                            <img src="/assets/img/4-3.png" />
                                             <div class="ts-mask is-secondary is-bottom">
                                                 <div class="ts-content is-compact is-start-aligned">
                                                     <div class="ts-badge is-secondary">NT$ 100</div>
@@ -249,7 +249,7 @@
                                     </div>
                                     <div class="column">
                                         <div class="ts-image is-rounded" style="max-width: 450px">
-                                            <img src="/img/4-3.png" />
+                                            <img src="/assets/img/4-3.png" />
                                             <div class="ts-mask is-secondary is-bottom">
                                                 <div class="ts-content is-compact is-start-aligned">
                                                     <div class="ts-badge is-secondary">NT$ 320</div>
@@ -264,7 +264,7 @@
                                 <div class="ts-header is-heavy">宣傳廣告</div>
                                 <div class="ts-space"></div>
                                 <div class="ts-image is-rounded">
-                                    <img src="/img/stego-exif.png" />
+                                    <img src="/assets/img/stego-exif.png" />
                                 </div>
                                 <div class="ts-space"></div>
                                 <div class="ts-text is-bold">神奇麵包屋</div>
@@ -283,5 +283,6 @@
                 <div class="ts-space is-large"></div>
             </div>
         </div>
+		<script src="/assets/js/clarity.js"></script>
     </body>
 </html>

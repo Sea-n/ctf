@@ -70,5 +70,6 @@ pre code {
 	white-space: pre-wrap;
 }
 </style>
+<script src="/assets/js/clarity.js"></script>
     </body>
 </html>

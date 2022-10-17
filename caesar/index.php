@@ -12,7 +12,7 @@
                     <div class="ts-row is-middle-aligned">
                         <div class="column">
                             <div class="ts-avatar is-circular">
-                                <img src="/img/user3.png" />
+                                <img src="/assets/img/user3.png" />
                             </div>
                         </div>
                         <div class="column is-fluid">
@@ -42,7 +42,7 @@
                         <div class="ts-row is-middle-aligned">
                             <div class="column">
                                 <div class="ts-avatar is-circular is-large">
-                                    <img src="/img/user.png" />
+                                    <img src="/assets/img/user.png" />
                                 </div>
                             </div>
                             <div class="column">
@@ -55,7 +55,7 @@
                         <div class="ts-row is-middle-aligned">
                             <div class="column">
                                 <div class="ts-avatar is-circular is-large">
-                                    <img src="/img/user2.png" />
+                                    <img src="/assets/img/user2.png" />
                                 </div>
                             </div>
                             <div class="column">
@@ -68,7 +68,7 @@
                         <div class="ts-row is-middle-aligned">
                             <div class="column">
                                 <div class="ts-avatar is-circular is-large">
-                                    <img src="/img/user3.png" />
+                                    <img src="/assets/img/user3.png" />
                                 </div>
                             </div>
                             <div class="column">
@@ -81,7 +81,7 @@
                         <div class="ts-row is-middle-aligned">
                             <div class="column">
                                 <div class="ts-avatar is-circular is-large">
-                                    <img src="/img/user.png" />
+                                    <img src="/assets/img/user.png" />
                                 </div>
                             </div>
                             <div class="column">
@@ -94,7 +94,7 @@
                         <div class="ts-row is-middle-aligned">
                             <div class="column">
                                 <div class="ts-avatar is-circular is-large">
-                                    <img src="/img/user2.png" />
+                                    <img src="/assets/img/user2.png" />
                                 </div>
                             </div>
                             <div class="column">
@@ -111,7 +111,7 @@
                         <div class="ts-row is-middle-aligned">
                             <div class="column">
                                 <div class="ts-avatar is-circular">
-                                    <img src="/img/user.png" />
+                                    <img src="/assets/img/user.png" />
                                 </div>
                             </div>
                             <div class="column is-fluid">
@@ -135,7 +135,7 @@
                     <div class="ts-content">
                         <div class="ts-conversation">
                             <div class="avatar">
-                                <img src="/img/user.png" />
+                                <img src="/assets/img/user.png" />
                             </div>
                             <div class="content">
                                 <div class="bubble">
@@ -152,7 +152,7 @@
                         <div class="ts-space"></div>
                         <div class="ts-conversation">
                             <div class="avatar">
-                                <img src="/img/user.png" />
+                                <img src="/assets/img/user.png" />
                             </div>
                             <div class="content">
                                 <div class="bubble">
@@ -168,7 +168,7 @@
                         <div class="ts-space"></div>
                         <div class="ts-conversation is-self is-sent">
                             <div class="avatar">
-                                <img src="/img/user.png" />
+                                <img src="/assets/img/user.png" />
                             </div>
                             <div class="content">
                                 <div class="bubble">
@@ -184,7 +184,7 @@
                         <div class="ts-space"></div>
                         <div class="ts-conversation">
                             <div class="avatar">
-                                <img src="/img/user.png" />
+                                <img src="/assets/img/user.png" />
                             </div>
                             <div class="content">
                                 <div class="bubble">
@@ -200,7 +200,7 @@
                         <div class="ts-space"></div>
                         <div class="ts-conversation is-self is-sent">
                             <div class="avatar">
-                                <img src="/img/user.png" />
+                                <img src="/assets/img/user.png" />
                             </div>
                             <div class="content">
                                 <div class="bubble">
@@ -216,7 +216,7 @@
                         <div class="ts-space"></div>
                         <div class="ts-conversation">
                             <div class="avatar">
-                                <img src="/img/user.png" />
+                                <img src="/assets/img/user.png" />
                             </div>
                             <div class="content">
                                 <div class="bubble">
@@ -232,7 +232,7 @@
                         <div class="ts-space"></div>
                         <div class="ts-conversation">
                             <div class="avatar">
-                                <img src="/img/user.png" />
+                                <img src="/assets/img/user.png" />
                             </div>
                             <div class="content">
                                 <div class="bubble">
@@ -277,5 +277,6 @@
                 </div>
             </div>
         </div>
+		<script src="/assets/js/clarity.js"></script>
     </body>
 </html>

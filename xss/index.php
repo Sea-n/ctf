@@ -170,6 +170,7 @@ $cards = array_reverse($cards);
 		<button class="ts negative large button" onclick="location.href = './flush';" style="margin: 42px;">清除紀錄</button>
 	</div>
 	<!-- / 窄容器網格系統 -->
+	<script src="/assets/js/clarity.js"></script>
 </body>
 </html>
 <!-- Modified from https://examples.tocas-ui.com/pages/notes.html -->
