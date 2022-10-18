@@ -15,8 +15,10 @@
 		<div class="ts-content is-secondary is-fitted">
 			<div class="ts-container">
 				<div class="ts-tab">
+					<a class="item" target="_blank" href="https://www.sean.taipei/">關於我</a>
 					<div class="item is-active">題目列表</div>
-					<a href="https://hackmd.io/@Sean64/sec" target="_blank" class="item">簡報</a>
+					<a class="item" target="_blank" href="https://hackmd.io/@Sean64/sec">教學簡報</a>
+					<a class="item" target="_blank" href="https://blog.sean.taipei/">部落格</a>
 				</div>
 			</div>
 		</div>
@@ -37,7 +39,7 @@
 					<div class="ts-box">
 						<div class="ts-image">
 							<a target="_blank" href="/f12">
-								<img src="img/f12.png" />
+								<img src="/assets/img/f12.png" />
 							</a>
 						</div>
 						<div class="ts-content">學弟的瀏覽器幫他記住密碼了，要怎麼找出預先填入的密碼呢</div>
@@ -46,18 +48,8 @@
 				<div class="column">
 					<div class="ts-box">
 						<div class="ts-image">
-							<a target="_blank" href="/xss">
-								<img src="img/xss.png" />
-							</a>
-						</div>
-						<div class="ts-content">每個人都可以留言欸！看起來沒有過濾文字，來試試上課教到的 XSS 程式碼注入吧</div>
-					</div>
-				</div>
-				<div class="column">
-					<div class="ts-box">
-						<div class="ts-image">
 							<a target="_blank" href="/bac">
-								<img src="img/bac.png" />
+								<img src="/assets/img/bac.png" />
 							</a>
 						</div>
 						<div class="ts-content">有人偷懶只在前端驗證帳號密碼，動點小巧思就能繞過限制</div>
@@ -67,17 +59,27 @@
 					<div class="ts-box">
 						<div class="ts-image">
 							<a target="_blank" href="/cmdi">
-								<img src="img/cmdi.png" />
+								<img src="/assets/img/cmdi.png" />
 							</a>
 						</div>
-						<div class="ts-content">我開發了一個可以 Ping 任何網站的小工具，放到網路上給大家使用。等等... 是不是哪裡寫壞了？</div>
+						<div class="ts-content">我開發了一個可以 Ping 任何網站的小工具，放到網路上給大家使用。等等... 是不是哪裡寫壞了</div>
+					</div>
+				</div>
+				<div class="column">
+					<div class="ts-box">
+						<div class="ts-image">
+							<a target="_blank" href="/xss">
+								<img src="/assets/img/xss.png" />
+							</a>
+						</div>
+						<div class="ts-content">每個人都可以留言欸！看起來沒有過濾文字，來試試上課教到的 XSS 程式碼注入吧</div>
 					</div>
 				</div>
 				<div class="column">
 					<div class="ts-box">
 						<div class="ts-image">
 							<a target="_blank" href="/caesar">
-								<img src="img/caesar.png" />
+								<img src="/assets/img/caesar.png" />
 							</a>
 						</div>
 						<div class="ts-content">前陣子破解同學電腦，看到了聊天訊息，但似乎被某種方式加密過了，試著找到工具破譯密文吧</div>
@@ -87,10 +89,40 @@
 					<div class="ts-box">
 						<div class="ts-image">
 							<a target="_blank" href="/stego">
-								<img src="img/stego.png" />
+								<img src="/assets/img/stego.png" />
 							</a>
 						</div>
-						<div class="ts-content">這題我想不到可以出什麼情境 (´･ω･`)</div>
+						<div class="ts-content">朋友竟然在河道上發布生活照，好像有些資訊沒有移除掉</div>
+					</div>
+				</div>
+				<div class="column">
+					<div class="ts-box">
+						<div class="ts-image">
+							<a target="_blank" href="https://ctf.sean.cat:43798/">
+								<img src="/assets/img/grafana.png" />
+							</a>
+						</div>
+						<div class="ts-content">Grafana</div>
+					</div>
+				</div>
+				<div class="column">
+					<div class="ts-box">
+						<div class="ts-image">
+							<a target="_blank" href="https://ctf.sean.cat:41773/">
+								<img src="/assets/img/apache2-4-49.png" />
+							</a>
+						</div>
+						<div class="ts-content">Apache 2.4.49</div>
+					</div>
+				</div>
+				<div class="column">
+					<div class="ts-box">
+						<div class="ts-image">
+							<a target="_blank" href="https://ctf.sean.cat:42013/">
+								<img src="/assets/img/apache2-4-50.png" />
+							</a>
+						</div>
+						<div class="ts-content">Apache 2.4.50</div>
 					</div>
 				</div>
 			</div>

@@ -12,7 +12,7 @@
                     <div class="ts-row is-middle-aligned">
                         <div class="column">
                             <div class="ts-avatar is-circular">
-                                <img src="/assets/img/user3.png" />
+                                <img src="/assets/img/user.png" />
                             </div>
                         </div>
                         <div class="column is-fluid">
@@ -35,14 +35,14 @@
                     <div class="ts-space"></div>
                     <div class="ts-input is-solid is-fluid is-start-icon">
                         <span class="ts-icon is-magnifying-glass-icon"></span>
-                        <input type="text" placeholder="搜尋聊天使用者…" />
+                        <input type="text" placeholder="找找魔法師" />
                     </div>
                     <div class="ts-space"></div>
                     <div class="ts-content is-interactive is-dense">
                         <div class="ts-row is-middle-aligned">
                             <div class="column">
                                 <div class="ts-avatar is-circular is-large">
-                                    <img src="/assets/img/user.png" />
+                                    <img src="/assets/img/user2.png" />
                                 </div>
                             </div>
                             <div class="column">
@@ -55,7 +55,7 @@
                         <div class="ts-row is-middle-aligned">
                             <div class="column">
                                 <div class="ts-avatar is-circular is-large">
-                                    <img src="/assets/img/user2.png" />
+                                    <img src="/assets/img/user3.png" />
                                 </div>
                             </div>
                             <div class="column">
@@ -68,11 +68,11 @@
                         <div class="ts-row is-middle-aligned">
                             <div class="column">
                                 <div class="ts-avatar is-circular is-large">
-                                    <img src="/assets/img/user3.png" />
+                                    <img src="/assets/img/user2.png" />
                                 </div>
                             </div>
                             <div class="column">
-                                <div class="ts-text is-bold">Yami Odymel</div>
+                                <div class="ts-text is-bold">星乃菖蒲</div>
                                 <div class="ts-text is-description">早安我的朋友，好久沒…</div>
                             </div>
                         </div>
@@ -94,7 +94,7 @@
                         <div class="ts-row is-middle-aligned">
                             <div class="column">
                                 <div class="ts-avatar is-circular is-large">
-                                    <img src="/assets/img/user2.png" />
+                                    <img src="/assets/img/user3.png" />
                                 </div>
                             </div>
                             <div class="column">
@@ -111,11 +111,11 @@
                         <div class="ts-row is-middle-aligned">
                             <div class="column">
                                 <div class="ts-avatar is-circular">
-                                    <img src="/assets/img/user.png" />
+                                    <img src="/assets/img/user-yami.jpg" />
                                 </div>
                             </div>
                             <div class="column is-fluid">
-                                <div class="ts-text is-bold">星乃菖蒲</div>
+                                <div class="ts-text is-bold">Yami Odymel</div>
                             </div>
                             <div class="column">
                                 <button class="ts-button is-circular is-icon is-ghost">
@@ -135,7 +135,7 @@
                     <div class="ts-content">
                         <div class="ts-conversation">
                             <div class="avatar">
-                                <img src="/assets/img/user.png" />
+                                <img src="/assets/img/user-yami.jpg" />
                             </div>
                             <div class="content">
                                 <div class="bubble">
@@ -152,7 +152,7 @@
                         <div class="ts-space"></div>
                         <div class="ts-conversation">
                             <div class="avatar">
-                                <img src="/assets/img/user.png" />
+                                <img src="/assets/img/user-yami.jpg" />
                             </div>
                             <div class="content">
                                 <div class="bubble">
@@ -184,7 +184,7 @@
                         <div class="ts-space"></div>
                         <div class="ts-conversation">
                             <div class="avatar">
-                                <img src="/assets/img/user.png" />
+                                <img src="/assets/img/user-yami.jpg" />
                             </div>
                             <div class="content">
                                 <div class="bubble">
@@ -216,7 +216,7 @@
                         <div class="ts-space"></div>
                         <div class="ts-conversation">
                             <div class="avatar">
-                                <img src="/assets/img/user.png" />
+                                <img src="/assets/img/user-yami.jpg" />
                             </div>
                             <div class="content">
                                 <div class="bubble">
@@ -232,7 +232,7 @@
                         <div class="ts-space"></div>
                         <div class="ts-conversation">
                             <div class="avatar">
-                                <img src="/assets/img/user.png" />
+                                <img src="/assets/img/user-yami.jpg" />
                             </div>
                             <div class="content">
                                 <div class="bubble">
@@ -264,7 +264,7 @@
                             </div>
                             <div class="column is-fluid">
                                 <div class="ts-input is-solid is-fluid">
-                                    <input type="text" placeholder="訊息…" />
+                                    <input type="text" placeholder="發送水晶玉" />
                                 </div>
                             </div>
                             <div class="column">
