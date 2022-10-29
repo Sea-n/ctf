@@ -1,23 +1,27 @@
 <!DOCTYPE html>
-<html data-background="secondary" data-scheme="dark">
+<html lang="zh-TW" data-background="secondary" data-scheme="dark">
 	<head>
-		<meta charset="UTF-8" />
-		<title>CTF 題目一覽 - Sean 入門教學</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>CTF 入門題目 - Sean 教學水題</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocas-ui/4.0.2/tocas.min.css">
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/tocas-ui/4.0.2/tocas.min.js"></script>
-		<meta name="description" content="資安入門教學" />
-		<meta property="og:title" content="CTF 題目列表" />
-		<meta property="og:description" content="資安入門教學" />
-		<meta property="og:image" content="/assets/img/ctf.png" />
+		<meta name="description" content="資安入門教學題目" />
+		<meta property="og:url" content="https://ctf.sean.cat/">
+		<meta property="og:title" content="CTF 入門題目列表" />
+		<meta property="og:description" content="資安入門教學題目" />
+		<meta property="og:image" content="https://ctf.sean.cat/assets/img/ctf.png" />
+		<link rel="canonical" href="https://ctf.sean.cat/">
 	</head>
 	<!-- Source: Tocas UI v4 範例頁面 -->
 	<body>
 		<div class="ts-content is-secondary is-fitted">
 			<div class="ts-container">
 				<div class="ts-tab">
-					<a class="item" target="_blank" href="https://www.sean.taipei/">關於我</a>
-					<div class="item is-active">題目列表</div>
+					<b class="item is-active">題目列表</b>
 					<a class="item" target="_blank" href="https://hackmd.io/@Sean64/sec">教學簡報</a>
+					<a class="item" target="_blank" href="https://bamboofox.cs.nctu.edu.tw/courses/15/challenges">計分板</a>
+					<a class="item" target="_blank" href="https://www.sean.taipei/" style="margin-left: auto">關於我</a>
 					<a class="item" target="_blank" href="https://blog.sean.taipei/">部落格</a>
 				</div>
 			</div>
@@ -26,8 +30,8 @@
 		<div class="ts-content is-center-aligned is-vertically-very-padded" style="background: var(--ts-gray-50)">
 			<div class="ts-space"></div>
 			<div class="ts-container">
-				<div class="ts-header is-center-aligned is-huge is-heavy">CTF 題目列表</div>
-				<div class="ts-text is-secondary">資安入門教學</div>
+				<div class="ts-header is-center-aligned is-huge is-heavy">CTF 入門題目</div>
+				<div class="ts-text is-secondary">資安教學範例題</div>
 			</div>
 			<div class="ts-space"></div>
 		</div>
@@ -70,7 +74,7 @@
 						<div class="ts-image">
 							<a target="_blank" href="/xss">
 								<img src="/assets/img/xss.png" />
-							</a>
+							</a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       <!-- Here is your F1@g: RkxBR3t3RWxDMG1lX1QwX21ZX1czYiRpVDN9, remember to decode before submit. -->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 						</div>
 						<div class="ts-content">每個人都可以留言欸！看起來沒有過濾文字，來試試上課教到的 XSS 程式碼注入吧</div>
 					</div>
@@ -102,7 +106,7 @@
 								<img src="/assets/img/grafana.png" />
 							</a>
 						</div>
-						<div class="ts-content">Grafana</div>
+						<div class="ts-content">Grafana (CVE-2021-43798)</div>
 					</div>
 				</div>
 				<div class="column">
@@ -112,7 +116,7 @@
 								<img src="/assets/img/apache2-4-49.png" />
 							</a>
 						</div>
-						<div class="ts-content">Apache 2.4.49</div>
+						<div class="ts-content">Apache 2 (CVE-2021-41773)</div>
 					</div>
 				</div>
 				<div class="column">
@@ -122,7 +126,7 @@
 								<img src="/assets/img/apache2-4-50.png" />
 							</a>
 						</div>
-						<div class="ts-content">Apache 2.4.50</div>
+						<div class="ts-content">Apache 2 Revenge (CVE-2021-42013)</div>
 					</div>
 				</div>
 			</div>
@@ -133,10 +137,6 @@
 			<div class="ts-container">
 				<div class="ts-header is-large is-heavy">感謝&nbsp;<a target="_blank" href="https://v4.tocas-ui.com/zh-tw/">Tocas UI</a>&nbsp;提供範例頁面作為模版</div>
 				<div class="ts-text is-secondary">講者：<a target="_blank" href="https://www.sean.taipei/">Sean 韋詠祥</a></div>
-				<!--
-					Good Job! Here is your flag:
-					FLAG{wElC0me_T0_mY_W3b$iT3}
-				-->
 			</div>
 		</div>
 		<style>

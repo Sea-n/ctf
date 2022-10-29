@@ -1,1 +1,4 @@
 # Hey there :)
+User-agent: *
+Allow: *
+Disallow: /no-flag-here.txt
