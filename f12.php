@@ -16,12 +16,12 @@
 					<div class="ts-text is-label">使用者帳號</div>
 					<div class="ts-input is-start-icon is-underlined is-fluid">
 						<span class="ts-icon is-user-icon"></span>
-						<input id="account" class="input" name="account" type="text" />
+						<input id="account" class="input" name="account" value="user" type="text" />
 					</div>
 					<div class="ts-text is-label">密碼</div>
 					<div class="ts-input is-start-icon is-underlined is-fluid">
 						<span class="ts-icon is-lock-icon"></span>
-						<input id="password" class="input" name="password" type="password" />
+						<input id="password" class="input" name="password" value="NOT_FLAG{Please_try_harder.}" type="password" />
 					</div>
 					<button class="ts-button is-fluid">登入</button>
 				</div>

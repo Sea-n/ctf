@@ -38,8 +38,8 @@
 		<div class="ts-divider"></div>
 		<div class="ts-space is-big"></div>
 		<div class="ts-container">
-			<div class="ts-grid is-3-columns is-relaxed">
-				<div class="column">
+			<div class="ts-grid is-12-columns is-relaxed">
+				<div class="column is-12-minimal is-6-standard is-4-maximal">
 					<div class="ts-box">
 						<div class="ts-image">
 							<a target="_blank" href="/f12">
@@ -49,7 +49,7 @@
 						<div class="ts-content">學弟的瀏覽器幫他記住密碼了，要怎麼找出預先填入的密碼呢</div>
 					</div>
 				</div>
-				<div class="column">
+				<div class="column is-12-minimal is-6-standard is-4-maximal">
 					<div class="ts-box">
 						<div class="ts-image">
 							<a target="_blank" href="/bac">
@@ -59,7 +59,7 @@
 						<div class="ts-content">有人偷懶只在前端驗證帳號密碼，動點小巧思就能繞過限制</div>
 					</div>
 				</div>
-				<div class="column">
+				<div class="column is-12-minimal is-6-standard is-4-maximal">
 					<div class="ts-box">
 						<div class="ts-image">
 							<a target="_blank" href="/cmdi">
@@ -69,7 +69,7 @@
 						<div class="ts-content">我開發了一個可以 Ping 任何網站的小工具，放到網路上給大家使用。等等... 是不是哪裡寫壞了</div>
 					</div>
 				</div>
-				<div class="column">
+				<div class="column is-12-minimal is-6-standard is-4-maximal">
 					<div class="ts-box">
 						<div class="ts-image">
 							<a target="_blank" href="/xss">
@@ -79,7 +79,7 @@
 						<div class="ts-content">每個人都可以留言欸！看起來沒有過濾文字，來試試上課教到的 XSS 程式碼注入吧</div>
 					</div>
 				</div>
-				<div class="column">
+				<div class="column is-12-minimal is-6-standard is-4-maximal">
 					<div class="ts-box">
 						<div class="ts-image">
 							<a target="_blank" href="/caesar">
@@ -89,7 +89,7 @@
 						<div class="ts-content">前陣子破解同學電腦，看到了聊天訊息，但似乎被某種方式加密過了，試著找到工具破譯密文吧</div>
 					</div>
 				</div>
-				<div class="column">
+				<div class="column is-12-minimal is-6-standard is-4-maximal">
 					<div class="ts-box">
 						<div class="ts-image">
 							<a target="_blank" href="/stego">
@@ -99,7 +99,7 @@
 						<div class="ts-content">朋友竟然在河道上發布生活照，好像有些資訊沒有移除掉</div>
 					</div>
 				</div>
-				<div class="column">
+				<div class="column is-12-minimal is-6-standard is-4-maximal">
 					<div class="ts-box">
 						<div class="ts-image">
 							<a target="_blank" href="https://ctf.sean.cat:43798/">
@@ -109,7 +109,7 @@
 						<div class="ts-content">Grafana (CVE-2021-43798)</div>
 					</div>
 				</div>
-				<div class="column">
+				<div class="column is-12-minimal is-6-standard is-4-maximal">
 					<div class="ts-box">
 						<div class="ts-image">
 							<a target="_blank" href="https://ctf.sean.cat:41773/">
@@ -119,7 +119,7 @@
 						<div class="ts-content">Apache 2 (CVE-2021-41773)</div>
 					</div>
 				</div>
-				<div class="column">
+				<div class="column is-12-minimal is-6-standard is-4-maximal">
 					<div class="ts-box">
 						<div class="ts-image">
 							<a target="_blank" href="https://ctf.sean.cat:42013/">
@@ -142,6 +142,10 @@
 		<style>
 			a {
 				text-decoration: dotted underline;
+			}
+
+			.ts-grid.is-12-columns {
+				grid-template-columns: repeat(12, minmax(0, 1fr));
 			}
 		</style>
 		<script src="/assets/js/clarity.js"></script>
