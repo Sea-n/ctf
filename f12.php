@@ -21,9 +21,9 @@
 					<div class="ts-text is-label">密碼</div>
 					<div class="ts-input is-start-icon is-underlined is-fluid">
 						<span class="ts-icon is-lock-icon"></span>
-						<input id="password" class="input" name="password" value="NOT_FLAG{Please_try_harder.}" type="password" />
+						<input id="password" class="input" name="password" value="NOT_FLAG{P1e@S3_7rY_H4rD3r.}" type="password" />
 					</div>
-					<button class="ts-button is-fluid">登入</button>
+					<button type="submit" class="ts-button is-fluid">登入</button>
 				</div>
 			</div>
 		</div>
