@@ -2,7 +2,7 @@
 <html lang="zh-TW" data-background="secondary" data-scheme="dark">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<title>CTF 入門題目 - Sean 教學水題</title>
+		<title>CTF 入門題目 - Sean 教學例題</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocas-ui/4.0.2/tocas.min.css">
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/tocas-ui/4.0.2/tocas.min.js"></script>

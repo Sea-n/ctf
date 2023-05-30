@@ -1,0 +1,1 @@
+/root/vulhub/slash/files/slash.php
