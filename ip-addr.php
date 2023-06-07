@@ -112,7 +112,7 @@ $show_flag = ($ip_addr == '127.0.0.1');
                                 </div>
                                 <div class="column">
                                     <div class="ts-text is-label">檔案內容</div>
-									<div class="ts-text is-description">FLAG{X_f0rW@rDeD_f0r_1$_1n5eCur3}</div>
+									<div class="ts-text is-description">SQLAB{X_f0rW@rDeD_f0r_1$_1n5eCur3}</div>
                                 </div>
                             </div>
 <?php } ?>

@@ -102,6 +102,56 @@
 				<div class="column is-12-minimal is-6-standard is-4-maximal">
 					<div class="ts-box">
 						<div class="ts-image">
+							<a target="_blank" href="/filter">
+								<img src="/assets/img/filter.png" />
+							</a>
+						</div>
+						<div class="ts-content">我今天剛學會寫程式，架了一個自己的部落格，要麻煩讀者自己輸入文章的檔案名稱</div>
+					</div>
+				</div>
+				<div class="column is-12-minimal is-6-standard is-4-maximal">
+					<div class="ts-box">
+						<div class="ts-image">
+							<a target="_blank" href="/ip-addr">
+								<img src="/assets/img/ip-addr.png" />
+							</a>
+						</div>
+						<div class="ts-content">共享雲端硬碟可以放些公開的檔案，只有我透過本機存取才能看到自己的秘密</div>
+					</div>
+				</div>
+				<div class="column is-12-minimal is-6-standard is-4-maximal">
+					<div class="ts-box">
+						<div class="ts-image">
+							<a target="_blank" href="/slash">
+								<img src="/assets/img/slash.png" />
+							</a>
+						</div>
+						<div class="ts-content">透過 Proxy 存取定價 API，這個頁面只有我自己才看得到 Flag</div>
+					</div>
+				</div>
+				<div class="column is-12-minimal is-6-standard is-4-maximal">
+					<div class="ts-box">
+						<div class="ts-image">
+							<a target="_blank" href="/xxe">
+								<img src="/assets/img/xxe.png" />
+							</a>
+						</div>
+						<div class="ts-content">匯入文章真是方便的功能，過濾什麼的才不重要呢</div>
+					</div>
+				</div>
+				<div class="column is-12-minimal is-6-standard is-4-maximal">
+					<div class="ts-box">
+						<div class="ts-image">
+							<a target="_blank" href="/ssti">
+								<img src="/assets/img/ssti.png" />
+							</a>
+						</div>
+						<div class="ts-content">名字包含大括號錯了嗎</div>
+					</div>
+				</div>
+				<div class="column is-12-minimal is-6-standard is-4-maximal">
+					<div class="ts-box">
+						<div class="ts-image">
 							<a target="_blank" href="https://ctf.sean.cat:43798/">
 								<img src="/assets/img/grafana.png" />
 							</a>
@@ -127,6 +177,16 @@
 							</a>
 						</div>
 						<div class="ts-content">Apache 2 Revenge (CVE-2021-42013)</div>
+					</div>
+				</div>
+				<div class="column is-12-minimal is-6-standard is-4-maximal">
+					<div class="ts-box">
+						<div class="ts-image">
+							<a target="_blank" href="https://ctf.sean.cat:32682/">
+								<img src="/assets/img/unzip.png" />
+							</a>
+						</div>
+						<div class="ts-content">elFinder (CVE-2021-32682)</div>
 					</div>
 				</div>
 			</div>
